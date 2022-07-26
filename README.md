@@ -1,2 +1,1 @@
-# pokedex
-Pokedex - Startse
+# pokedex-startse
